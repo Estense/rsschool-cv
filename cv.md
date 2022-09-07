@@ -1,4 +1,4 @@
-# __[rsschool-cv](https://estense.github.io/rsschool-cv/)__
+# __[rsschool-cv](https://estense.github.io/rsschool-cv/cv)__
 
 # __Andrei Vernov__
 
